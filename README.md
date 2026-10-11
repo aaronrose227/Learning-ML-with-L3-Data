@@ -1,8 +1,8 @@
-![Order book levels feeding a neural network that predicts up, flat or down](cover_photo.png)
-
 # Learning ML with L3 data
 
 Trying to better understand how to implement and think about machine learning in code, using L3 (order-by-order) market data :)
+
+![Order book levels feeding a neural network that predicts up, flat or down](cover_photo.png)
 
 The notebook code is written by hand, by me. The one exception is `scripts/extract_itch.py`, which was written with AI help, since parsing a binary feed isn't the part I'm trying to learn.
 
