@@ -4,11 +4,9 @@ Trying to better understand how to implement and think about machine learning in
 
 ![Order book levels feeding a neural network that predicts up, flat or down](cover_photo.png)
 
-The notebook code is written by hand, by me. The one exception is `scripts/extract_itch.py`, which was written with AI help, since parsing a binary feed isn't the part I'm trying to learn.
-
 ## What's here
 
-- `logistic_regression.ipynb`: the notebook I'm working in.
+- `logistic_regression.ipynb`: first prediction model I am working on (first draft now done)
 - `scripts/extract_itch.py`: turns Nasdaq's raw order feed into message and order book tables.
 
 ## Getting the data
